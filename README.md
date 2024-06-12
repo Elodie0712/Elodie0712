@@ -3,6 +3,7 @@
 - 🌱 I have worked with Python, SQL, MongoDB, Javascript, Leaflet, Tableau, and Machine Learning
 - 📫 How to reach me at mmbuyielodie@gmail.com
 - ⚡ Fun fact: I earned a doctoral degree at the age of 30
+- CHECKOUT MY TEAM PROJECT: https://github.com/samwallach7/NHL_Analysis 
 
 <!---
 Elodie0712/Elodie0712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
